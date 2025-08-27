@@ -1,0 +1,28 @@
+p, a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-content: center;
+    color: aliceblue;
+    width: 350px;
+}
+
+a {
+    color:cornflowerblue;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+h2 {
+    color: lightseagreen;
+}
+
+body {
+    background-color: black;
+}
